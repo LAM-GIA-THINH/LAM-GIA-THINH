@@ -1,16 +1,17 @@
-## Hi there 👋
+## Lâm Thịnh👋
 
-<!--
-**LAM-GIA-THINH/LAM-GIA-THINH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+![Tech](https://img.shields.io/badge/-TechStack-000000?style=flat&logo=Tech)
 
-Here are some ideas to get you started:
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
+LAM-GIA-THINH)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+LAM-GIA-THINH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=
+LAM-GIA-THINH)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo_name)](https://github.com/yourusername/repo_name)
