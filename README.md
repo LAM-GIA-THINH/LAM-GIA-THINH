@@ -14,11 +14,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAM-GIA-THINH)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAM-GIA-THINH)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LAM-GIA-THINH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LAM-GIA-THINH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LAM-GIA-THINH)](https://github.com/ryo-ma/github-profile-trophy)
